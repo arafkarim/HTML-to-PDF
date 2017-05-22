@@ -3073,6 +3073,7 @@ var jsPDF = (function(global) {
 	DrillForContent,
 	FontNameDB,
 	FontStyleMap,
+	TextAlignMap,
 	FontWeightMap,
 	FloatMap,
 	ClearMap,
